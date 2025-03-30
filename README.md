@@ -6,13 +6,13 @@ The Met is an interactive landing page designed to present one of the world's mo
 **[DESIGN REFERENCE](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=aGL64wlhJnY15hpR-0)**
 
 ## Technologies Used
-+ **HTML5** — game board and UI structure.
-+ **CSS3** — styling of the project, the appearance of the game.
++ **HTML5** — Web site structure is the basis of the user interface.
++ **CSS3** — website styling and design.
 
 ## Key Features
-+ Clean, minimalistic interface with an emphasis on content
-+ Полноценное отображение на всех устройствах (от 320px до 4K)
-+ 3D virtual tour of the main halls of the museum
++ Clean, minimalistic interface with an emphasis on content.
++ Полноценное отображение на всех устройствах (от 320px до 4K).
++ 3D virtual tour of the main halls of the museum.
 
 ## Getting Started
 1. Clone the repo
