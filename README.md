@@ -1,5 +1,5 @@
 # The Met
-The Met is an interactive landing page designed to present one of the world's most significant art museums. The site combines an elegant, minimalist design with thoughtful user navigation.
+The Met is an interactive landing page showcasing one of the world's most iconic art museums—The Metropolitan Museum of Art in New York. As the largest art museum in the United States and the fourth-largest museum in the world by gallery space, The Met attracts millions of visitors annually, with 5.36 million guests in 2023 alone, making it the most-visited museum in the U.S. and the fifth-most-visited art museum globally.
 
 **[DEMO LINK](https://DianaKadimbekova.github.io/The_Met/)**
 
@@ -11,14 +11,16 @@ The Met is an interactive landing page designed to present one of the world's mo
 
 ## Key Features
 + Clean, minimalistic interface with an emphasis on content.
-+ Полноценное отображение на всех устройствах (от 320px до 4K).
++ Full display on all devices (320px to 4K).
 + 3D virtual tour of the main halls of the museum.
++ Responsive layout was made by using CSS Grid and Flexbox
++ Smooth animations, gallery previews, and intuitive navigation.
 
 ## Getting Started
 1. Clone the repo
 ```
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://DianaKadimbekova.github.io/The_Met/
+cd The_Met
 ```
 2. Install dependencies
 ```
