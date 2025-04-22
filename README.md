@@ -20,7 +20,7 @@ The Met is an interactive landing page showcasing one of the world's most iconic
 ## Getting Started
 1. Clone the repo
 ```
-git clone https://DianaKadimbekova.github.io/The_Met/
+git clone https://github.com/DianaKadimbekova/The_Met.git
 cd The_Met
 ```
 2. Install dependencies
