@@ -8,7 +8,7 @@ The Met is an interactive landing page showcasing one of the world's most iconic
 ## Technologies Used
 + **HTML5** — Web site structure is the basis of the user interface.
 + **CSS3** — website styling and design.
-+ **BEM** - was used to write clean, maintainable and scalable CSS/SCSS code.
++ **BEM** — was used to write clean, maintainable and scalable CSS/SCSS code.
 
 ## Key Features
 + Clean, minimalistic interface with an emphasis on content.
